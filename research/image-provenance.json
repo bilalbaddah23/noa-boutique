@@ -1,0 +1,132 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-native-01.jpg",
+    "sha256": "d03cbda319c42f2bb6d589641afa1f7cfefef12711eef192b64b2b37b3c7841c",
+    "originalDimensions": [
+      3072,
+      4096
+    ],
+    "webDimensions": [
+      1275,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-native-02.jpg",
+    "sha256": "f65ec29e5e711c4ab6788e72839e6ae9d765c04e5b8a3744ea82a5e64ab77918",
+    "originalDimensions": [
+      3072,
+      4095
+    ],
+    "webDimensions": [
+      1275,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-05.jpg",
+    "sha256": "8d68a60cfacf7395f1bbb9de9e9dba6e43965bd64da5bdd64a4944139a12c01d",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-06.jpg",
+    "sha256": "59edb7497120b2775d98df8ef9b000d05fa9e2abf370fc40db347abaeffc0f73",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-08.jpg",
+    "sha256": "f0608f7a15e069e88f36fa6569fd9110fa1c954566c41ab918a179c20b85ab8f",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-09.jpg",
+    "sha256": "1c4f0449e95d59b419fc3aadeeb5804ec31b7e832375fd35bd69c3ab06e34040",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-10.jpg",
+    "sha256": "0fbfb8492f0dad04f37c1d63b845e65990d8c36c40d6c258dc6ded782ff4e470",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-11.jpg",
+    "sha256": "7b365e70486634ef49564c7ae6a53e791a57b037a313245f9325d91b831e5ebc",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-12.jpg",
+    "sha256": "933a3916779d59b468c9393807f6d5ac6ac429b87c30dfeffc0a54ee7a629c84",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-03.jpg",
+    "sha256": "89b33a779b4274c4bd90c6fea67295f55e848aa49542eff3e0370840d9d1daa3",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  }
+]

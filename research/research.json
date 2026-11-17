@@ -1,0 +1,481 @@
+{
+  "brand": "Noa Boutique",
+  "handle": "noaboutique",
+  "instagram": "https://www.instagram.com/noaboutique/",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "publicPhoneObserved": "+961-70037170",
+  "hours": "Confirm with the boutique",
+  "followersObserved": 111000,
+  "followersDisplay": "111K",
+  "followersCountIsApproximate": true,
+  "postCountObserved": null,
+  "latestVisiblePost": "2026-11-15",
+  "latestOwnPostObserved": "2026-11-12",
+  "researchDate": "2026-11-16",
+  "profileBio": "Since 2009 🇱🇧\nWorldwide delivery 🌍\n📍Haret Hreik & Tyre\n@noaboutiqueshoes\n📲+961-70037170",
+  "bioLinks": [
+    "https://maps.app.goo.gl/EKe9EsC18u5BTRdA7?g_st=com.google.maps.preview.copy",
+    "https://fb.me/noaboutiquebynadia"
+  ],
+  "branches": [
+    {
+      "name": "Official linked location — confirm branch with Noa",
+      "mapUrl": "https://maps.app.goo.gl/EKe9EsC18u5BTRdA7?g_st=com.google.maps.preview.copy",
+      "mapType": "Exact public Instagram bio link; profile mentions Haret Hreik and Tyre but no precise street address was verified."
+    }
+  ],
+  "about": "Noa Boutique is a Lebanese fashion boutique whose public Instagram biography says Since2009, lists Haret Hreik and Tyre, and offers worldwide delivery. Its collection imagery includes tailored outfits, occasion looks, knitwear, coordinated sets and outer layers. Browse the photographs and contact the official Instagram page to confirm current details.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-native-01.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-native-02.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-native-01.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-native-02.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-03.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-05.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-06.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-08.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-09.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-10.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-11.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "double-breasted-city-look",
+      "name": "Double-Breasted City Look",
+      "category": "Tailored looks",
+      "description": "Dark double-breasted blazer, grey top and light-grey wide-leg trousers shown together in two photos from the Winter in Bloom campaign. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-native-01.jpg",
+        "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-native-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/noaboutique/p/DfnThpWlVC7/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "evening-layered-look",
+      "name": "Evening Layered Look",
+      "category": "Occasion looks",
+      "description": "Brown jacket, pale embellished-looking top and dark trousers styled together in a public campaign photograph. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/noaboutique/p/Dfl2AkMjN_j/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "cream-wrap-coat",
+      "name": "Cream Wrap Coat",
+      "category": "Outer layers",
+      "description": "Light cream belted coat with textured trim at the collar, shown with coordinated tall boots. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/noaboutique/p/Dfg-4CkjIiU/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "textured-poncho-look",
+      "name": "Textured Poncho Look",
+      "category": "Coordinated looks",
+      "description": "Light-toned textured poncho-style top and matching trousers displayed together on a clothing rail. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/DfjNerRMinH/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "trimmed-vest-layer",
+      "name": "Trimmed Vest Layer",
+      "category": "Outer layers",
+      "description": "Pale sleeveless outer layer with contrasting plush-looking trim, shown over a light outfit beside other colour presentations. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/Dfb-ic1sutF/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "pastel-vest-look",
+      "name": "Pastel Vest Look",
+      "category": "Coordinated looks",
+      "description": "Pastel padded vest and matching relaxed trousers, shown in lilac with other light colour presentations on the rail. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/DfZpi_csLDM/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "floral-tailored-look",
+      "name": "Floral Tailored Look",
+      "category": "Tailored looks",
+      "description": "Dark tailored-looking jacket and trousers with a colourful floral print, shown together over a dark top. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/DfXOqlssJq6/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "plum-draped-dress",
+      "name": "Plum Draped Dress",
+      "category": "Dresses",
+      "description": "Long plum-coloured dress displayed on a mannequin with draped detailing across the upper body and waist. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/DfWubCCsQ2F/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    }
+  ],
+  "assets": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-native-01.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902586171_18644512714060916_621204766644660279_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAyODI3Mzk4ODI2NTk0ODY2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1qAtRCxNc34Q7kNvwEwo8IT&_nc_oc=Adorxzp0bTE6e-7zk2BGqbSFm-Ol9KfDYxK3tH3WqgJgN_XgrqCbymYTbs_tKF0bOaI&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=Kw1ICnk-fkE86XzyuRiioA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQT-YlnjKikkG3ihzFGhd2PjTpEdh16VjAUzViLAOSf_Jg&oe=6B012FA3",
+      "sourcePost": "https://www.instagram.com/noaboutique/p/DfnThpWlVC7/",
+      "alt": "Photo by Noa Boutique on November 11, 2026. May be an image of text.",
+      "width": 3072,
+      "height": 4096,
+      "sha256": "d03cbda319c42f2bb6d589641afa1f7cfefef12711eef192b64b2b37b3c7841c",
+      "sourceImageType": "Native public photo-carousel still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-11",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-native-02.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902586111_18644512723060916_6928077708281042134_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAyODI3Mzk5MDgxNjA3MzI4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GiLUzjGhDS8Q7kNvwE6rJ0e&_nc_oc=AdqDnR1oKzBPKCJnZNprGORLYtOB-n9j0UZgnHqMT2OWQaGPMOzwdFKnZgeiQ-HiIt8&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=Kw1ICnk-fkE86XzyuRiioA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSfauyC1ZMydUFVh6HQjzm8Jq2rrb_SBgY9DnlfEBC98Q&oe=6B013869",
+      "sourcePost": "https://www.instagram.com/noaboutique/p/DfnThpWlVC7/",
+      "alt": "Photo by Noa Boutique on November 11, 2026. May be an image of one or more people, makeup and text.",
+      "width": 3072,
+      "height": 4095,
+      "sha256": "f65ec29e5e711c4ab6788e72839e6ae9d765c04e5b8a3744ea82a5e64ab77918",
+      "sourceImageType": "Native public photo-carousel still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-11",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/885554891_18642237952060916_5156020721790191515_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=V1g95b5JdUwQ7kNvwGCNdHd&_nc_oc=AdrB12WrrSPOAy29oBbSCocB2NYo8JiUTgkosK_80kmEGmhOwXKK7ccMMIavM4u_ORg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTv3_fOxAuQOhzQlSCk95xkPn6xYyz9AJHbkvi9DShbWg&oe=6B012D70",
+      "sourcePost": "https://www.instagram.com/noaboutique/p/DfWVAQMMim-/",
+      "alt": "Photo by Noa Boutique on November 04, 2026. May be an image of heart, diaper, card and text.",
+      "width": 483,
+      "height": 640,
+      "sha256": "fee4f51930c0adb7565d0caafc751ba1d4506069502e74c65332240b4df5dc72",
+      "sourceImageType": "Public photo still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": false,
+      "exclusionReason": "Pinned promotional text/card rather than garment imagery. Historical offer is not a current website promise.",
+      "postDate": "2026-11-04",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/904032160_2221799368748781_6233884869707583248_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=c5MvdqXT8v8Q7kNvwEqA2n9&_nc_oc=AdpbegktZr_4975KCVQ4bTaE4O-jtQk-vl751p0KzJs59JRaZ_sWk6sySxWRM0ELLo4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQoRfRQiYLXM8gqy3IWLxsSZ8Zpzuh69dy4AyOeuaIirA&oe=6B012F68",
+      "sourcePost": "https://www.instagram.com/nourberro.me/reel/DfwYiAEsqgG/",
+      "alt": "Video by NOUR BERRO - newborn and baby photographer on November 15, 2026. May be an image of one or more people, makeup, turtleneck, shawl and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "601b943da95035b8d29d56848fd73a9c3707d4c49fb26705cdfefa1995c606f7",
+      "sourceImageType": "Native public Reel-cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": false,
+      "exclusionReason": "Coauthored photographer Reel cover appears on the public feed, but excluded to keep selected imagery to clear own-post garment images.",
+      "postDate": "2026-11-15",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902586157_18644653999060916_4404103626329358476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rTrQqrZT4t4Q7kNvwGQRyer&_nc_oc=Adpr3MGKOaMK5rO4iQPugtqM9QM8cLVDhcRLyosyqSHwPEl4LU0EHtBxPUfYyGqqU_M&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQMsPfSP8QqYmadl0Z_7FYJhqHxGIi653201CfPNheBJQ&oe=6B01320C",
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/DfolSqYiPHO/",
+      "alt": "Video by Noa Boutique on November 12, 2026. May be an image of overcoat, mannequin, display case and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "89b33a779b4274c4bd90c6fea67295f55e848aa49542eff3e0370840d9d1daa3",
+      "sourceImageType": "Native public Reel-cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-12",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/898615303_18644299090060916_364447625813118006_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=puy5b57zhFYQ7kNvwFd5bK-&_nc_oc=AdqiRqy_QHlsnWVor2sIA4azZNaFHf1cSCu1zh7ncXRShX97UfuzoS4po2u_7wbhtb8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSqakpPF-FuiNAPIsuwFddcJ1LrEtoosfSQCybE-7KWzw&oe=6B011D7E",
+      "sourcePost": "https://www.instagram.com/noaboutique/p/Dfl2AkMjN_j/",
+      "alt": "Photo by Noa Boutique on November 10, 2026.",
+      "width": 480,
+      "height": 640,
+      "sha256": "8d68a60cfacf7395f1bbb9de9e9dba6e43965bd64da5bdd64a4944139a12c01d",
+      "sourceImageType": "Public photo still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-10",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/892262109_18643679968060916_5267166497721860427_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=IP3h9dWz6IcQ7kNvwG1qB9i&_nc_oc=AdorLgy3VkuKKxSBXQ8FRVG_qG0zEyl6rbINnvwVCtwPow9ZfzcHY5aVYSnNtCFqP08&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQpr0o1CiV5Hhxt58A32FC_FLHi4lFLRa70aB1qZ27hIg&oe=6B0135B0",
+      "sourcePost": "https://www.instagram.com/noaboutique/p/Dfg-4CkjIiU/",
+      "alt": "Photo by Noa Boutique on November 09, 2026.",
+      "width": 480,
+      "height": 640,
+      "sha256": "59edb7497120b2775d98df8ef9b000d05fa9e2abf370fc40db347abaeffc0f73",
+      "sourceImageType": "Public photo still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-09",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/892190830_1131492236148424_4369889831286598158_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=66RmSSyDmKkQ7kNvwE--ZE3&_nc_oc=AdoGuhQke9ROMOXHKJTl76K0lFMQLcEp7_dfVqI6Pp-0eP7N8s_bZqNFN2zo3SQ0YHI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSXF78KptG96aOFfMn4oOZVMxmnE6ek-VxoSb2C4xGopw&oe=6B013AD3",
+      "sourcePost": "https://www.instagram.com/nourberro.me/reel/DffWTL7sKvh/",
+      "alt": "Video by NOUR BERRO - newborn and baby photographer on November 08, 2026. May be an image of one or more people, shawl, gown and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "06035b00f09a6be1647ebd696cb1d32eb9a2b1f8ffc22722635d34a36db62fb8",
+      "sourceImageType": "Native public Reel-cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": false,
+      "exclusionReason": "Coauthored photographer Reel cover excluded from this selected own-post garment edit.",
+      "postDate": "2026-11-08",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/900661310_2139534436691581_1647176718220980195_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=v9nRT25WfHoQ7kNvwGe0vOc&_nc_oc=Adpo7HjzWtJITVt72XYHN1_PRHRMxrNVDMc_9zMNdYL8WD8nxyucsXUqzBzu-cGQXsU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSTbxcLjDzFIESrThZmib-n25SuJObEdWw1Ni1rylbpSw&oe=6B011654",
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/DfjNerRMinH/",
+      "alt": "Video by Noa Boutique on November 09, 2026. May be an image of overcoat, cardigan, rack, clothes hanger and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "f0608f7a15e069e88f36fa6569fd9110fa1c954566c41ab918a179c20b85ab8f",
+      "sourceImageType": "Native public Reel-cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-09",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/887818791_18643008727060916_2273386613248086338_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=xuWeab4YTLkQ7kNvwGIDGzd&_nc_oc=AdqYCYLlxAzI7fRq5HTwaNABcx8ZxZJMvvtMxr2wSNGdUQNjBMYuiFjOHuor6BuAyi0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTFDx6uYCRqcOmYXUclZGBJ6XWzAyHM0Fyki96Mxg-d5Q&oe=6B0145C4",
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/Dfb-ic1sutF/",
+      "alt": "Video by Noa Boutique on November 07, 2026. May be an image of duffle coat, sable coat, overcoat, goosedown coat, suit, rack, clothes hanger and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "1c4f0449e95d59b419fc3aadeeb5804ec31b7e832375fd35bd69c3ab06e34040",
+      "sourceImageType": "Native public Reel-cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-07",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/886775361_18642700006060916_148806667157546851_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UX5m5nMvrw0Q7kNvwEfOXcj&_nc_oc=AdpDXI9GP5-AzgLEv9ZRzoKGs7bSl9Ppw4HwK8FzwR1DbYotMH4wLO74UapHsviu8dk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSwaQHqYjIsqqs2Z8r3VIzIhZoe-k57UtYhtalVurblqA&oe=6B013B65",
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/DfZpi_csLDM/",
+      "alt": "Video by Noa Boutique on November 06, 2026. May be an image of sable coat, goosedown coat, snowsuit, raincoat, sweatsuit, parka, clothes hanger and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "0fbfb8492f0dad04f37c1d63b845e65990d8c36c40d6c258dc6ded782ff4e470",
+      "sourceImageType": "Native public Reel-cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-06",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/886527387_18642385915060916_501978519983291497_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=GB344vlKqIAQ7kNvwE6M0Lr&_nc_oc=Ado7ln-r_AyOdy4y-bZs8yzREa15XD_5AApXFGLg7XGE3djNB6WRcwPvip2iCr9zlhc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQIHCEfi0mdGtPNVg-b22qgyjY7OCOYAcTKAfBeTwAclQ&oe=6B011A5C",
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/DfXOqlssJq6/",
+      "alt": "Video by Noa Boutique on November 05, 2026. May be an image of headscarf, suit, blazer and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "7b365e70486634ef49564c7ae6a53e791a57b037a313245f9325d91b831e5ebc",
+      "sourceImageType": "Native public Reel-cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-05",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\noa-boutique\\assets\\noa-feed-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/890417658_18642323356060916_2573981308199394574_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pc45nc2PTwoQ7kNvwHDL3Ki&_nc_oc=AdqWfxdw9J9bdLtTuzfukNV4rcMAmpbdKIhqeYDlbOKFdVT0gcwqAexfgy7KUEkXk5Q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uNaW0MnK4opsAR0_ZXlESg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSMebTy-cpvp6sqn460S408eW1JY3kdZ1HNWFU2Xx3D2w&oe=6B0135A4",
+      "sourcePost": "https://www.instagram.com/noaboutique/reel/DfWubCCsQ2F/",
+      "alt": "Video by Noa Boutique on November 05, 2026. May be an image of dress, mannequin and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "933a3916779d59b468c9393807f6d5ac6ac429b87c30dfeffc0a54ee7a629c84",
+      "sourceImageType": "Native public Reel-cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM source. No URL manipulation, generated imagery, upscaling or extracted video frame.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-05",
+      "aiLabelObserved": null,
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "visualReview": "Contact sheet reviewed on2026-11-16. Selected own-post public stills/cover images show identifiable clothing. No generated imagery, upscaling, manipulated resizing URLs or extracted video frames. Underlying photo rights and product authenticity not independently verified."
+    }
+  ],
+  "websiteScreening": {
+    "observedDate": "2026-11-16",
+    "instagram": "https://www.instagram.com/noaboutique/",
+    "result": "No matching official website found in root-reviewed complete public profile/bio links and bounded exact-handle/business/contact searches. An unlisted site cannot be ruled out.",
+    "queries": [
+      "\"noaboutique\" \"website\" Lebanon",
+      "\"Noa Boutique\" \"Nadia\" \"shop\"",
+      "\"96170037170\" website"
+    ],
+    "primaryProfileReviewed": true,
+    "allBioLinksReviewed": true,
+    "bioLinkReview": "Root reviewed the expanded Links dialog. Only the Google Maps location link and Facebook noaboutiquebynadia link were listed. Threads and own shoes-account mentions are social identities, not independent shops.",
+    "contactEvidence": "Public bio shows international phone+961-70037170 but does not explicitly identify it as WhatsApp. Website uses Instagram contact mode and blank phone fields rather than assuming WhatsApp capability.",
+    "collisionsExcluded": [
+      {
+        "url": "https://nellienoaboutique.com/products/nadia-elegant-orthopedic-sandals",
+        "reason": "Unrelated Nellie&Noa shop advertising US shipping and US customers; no matching Lebanese handle, phone or identity."
+      }
+    ],
+    "limitations": "Original-profile links and root observations were used. No owner outreach. Search absence cannot establish that no unlisted website exists. The111K follower display is rounded, not an invented exact count."
+  },
+  "activityEvidence": [
+    {
+      "source": "https://www.instagram.com/noaboutique/reel/DfolSqYiPHO/",
+      "date": "2026-11-12",
+      "observation": "Root observed Noa’s own public Reel cover and dated alt on the latest own-feed item."
+    },
+    {
+      "source": "https://www.instagram.com/nourberro.me/reel/DfwYiAEsqgG/",
+      "date": "2026-11-15",
+      "observation": "Root identified a coauthored photographer Reel on Noa’s public profile feed. Not downloaded as video and its cover is excluded from the selected gallery."
+    },
+    {
+      "source": "https://www.instagram.com/noaboutique/p/DfnThpWlVC7/",
+      "date": "2026-11-11",
+      "observation": "Root traversed public Winter in Bloom carousel; native photo-image sources downloaded at3072x4096 and3072x4095. Relativetime4daysago was recorded, but explicit imagealt dateNov11 is kept without inferring a different date."
+    }
+  ],
+  "restrictions": [
+    "Ten unique own-post garment images selected: two native3072px photo-carousel stills, two480x640 feed photo stills and six360-361x640 native Reel-cover stills. No video frame extraction, video download, generated image or upscaling.",
+    "The lower-resolution feed thumbnail of the native carousel photo is not downloaded or included; no deliberate same-visual native/thumb duplicates.",
+    "Pinned promotional card and two photographer/coauthor covers excluded from the selected website assets. Promotional delivery offers are not assumed to be current.",
+    "The showroom mannequin photo is gallery-only, not padded into a separate product. Eight grouped garment edits are used.",
+    "No exact current prices, sizes, materials, stock, exchange terms, delivery fees, opening hours or precise street addresses were verified. Keep subject to boutique confirmation.",
+    "Bio gives an international phone, but website default is Instagram contact because WhatsApp capability was not explicitly verified.",
+    "No claim about AI-content labels is made from these exports. Underlying photo rights/authenticity and branded-garment authenticity are not independently established."
+  ],
+  "sources": [
+    {
+      "url": "https://www.instagram.com/noaboutique/",
+      "kind": "Primary public profile: root-rendered bio, full expanded links and native image DOM export"
+    },
+    {
+      "url": "https://www.instagram.com/noaboutique/p/DfnThpWlVC7/",
+      "kind": "Primary own Winter in Bloom photo carousel"
+    },
+    {
+      "url": "https://www.instagram.com/noaboutique/reel/DfolSqYiPHO/",
+      "kind": "Primary own current public Reel cover"
+    },
+    {
+      "url": "https://www.instagram.com/nourberro.me/reel/DfwYiAEsqgG/",
+      "kind": "Coauthored public profile-feed activity evidence; selected image excluded"
+    }
+  ]
+}

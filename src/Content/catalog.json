@@ -1,0 +1,169 @@
+{
+  "brand": "NOA Boutique",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/noaboutique/",
+  "hours": "Confirm with the boutique",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-02.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg"
+  ],
+  "products": [
+    {
+      "id": "double-breasted-city-look",
+      "name": "Double-Breasted City Look",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Dark double-breasted blazer, grey top and light-grey wide-leg trousers shown together in two photos from the Winter in Bloom campaign. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/noaboutique/p/DfnThpWlVC7/"
+    },
+    {
+      "id": "evening-layered-look",
+      "name": "Evening Layered Look",
+      "collection": "Occasion looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Brown jacket, pale embellished-looking top and dark trousers styled together in a public campaign photograph. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/noaboutique/p/Dfl2AkMjN_j/"
+    },
+    {
+      "id": "cream-wrap-coat",
+      "name": "Cream Wrap Coat",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Light cream belted coat with textured trim at the collar, shown with coordinated tall boots. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/noaboutique/p/Dfg-4CkjIiU/"
+    },
+    {
+      "id": "textured-poncho-look",
+      "name": "Textured Poncho Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Light-toned textured poncho-style top and matching trousers displayed together on a clothing rail. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/noaboutique/reel/DfjNerRMinH/"
+    },
+    {
+      "id": "trimmed-vest-layer",
+      "name": "Trimmed Vest Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Pale sleeveless outer layer with contrasting plush-looking trim, shown over a light outfit beside other colour presentations. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/noaboutique/reel/Dfb-ic1sutF/"
+    },
+    {
+      "id": "pastel-vest-look",
+      "name": "Pastel Vest Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Pastel padded vest and matching relaxed trousers, shown in lilac with other light colour presentations on the rail. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/noaboutique/reel/DfZpi_csLDM/"
+    },
+    {
+      "id": "floral-tailored-look",
+      "name": "Floral Tailored Look",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Dark tailored-looking jacket and trousers with a colourful floral print, shown together over a dark top. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/noaboutique/reel/DfXOqlssJq6/"
+    },
+    {
+      "id": "plum-draped-dress",
+      "name": "Plum Draped Dress",
+      "collection": "Dresses",
+      "audience": "The edit",
+      "family": "",
+      "description": "Long plum-coloured dress displayed on a mannequin with draped detailing across the upper body and waist. Confirm current price, stock, size, material and the exact included pieces with Noa Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/noaboutique/reel/DfWubCCsQ2F/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Official linked location — confirm branch with Noa",
+      "mapUrl": "https://maps.app.goo.gl/EKe9EsC18u5BTRdA7?g_st=com.google.maps.preview.copy",
+      "mapType": "Exact public Instagram bio link; profile mentions Haret Hreik and Tyre but no precise street address was verified."
+    }
+  ]
+}
